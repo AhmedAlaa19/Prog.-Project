@@ -1,0 +1,16 @@
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.csproj.AssemblyReference.cache
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.AssemblyInfoInputs.cache
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.AssemblyInfo.cs
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.csproj.CoreCompileInputs.cache
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\bin\Debug\net5.0\Prog. Project.exe
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\bin\Debug\net5.0\Prog. Project.deps.json
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\bin\Debug\net5.0\Prog. Project.runtimeconfig.json
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\bin\Debug\net5.0\Prog. Project.runtimeconfig.dev.json
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\bin\Debug\net5.0\Prog. Project.dll
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\bin\Debug\net5.0\Prog. Project.pdb
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.dll
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\refint\Prog. Project.dll
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.pdb
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\Prog. Project.genruntimeconfig.cache
+C:\Users\medoa\Documents\GitHub\Prog.-Project\Prog. Project\obj\Debug\net5.0\ref\Prog. Project.dll
